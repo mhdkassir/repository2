@@ -1,4 +1,5 @@
-﻿Hunk1 day two firs demi journee
+﻿Trying another time to have hunk1 and hunk2
+Hunk1 day two firs demi journee
 New Modification in the new file
 Hunk1
 France (French: [fʁɑ̃s]), officially the French Republic (French: République française [ʁepyblik fʁɑ̃sɛz]), is a sovereign state comprising territory in western Europe and several overseas regions and territories.[XVI] The European part of France, called metropolitan France, extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. France spans 643,801 square kilometres (248,573 sq mi)[1] and has a total population of 67.2 million.[VI][8] It is a unitary semi-presidential republic with the capital in Paris, the country's largest city and main cultural and commercial centre. The Constitution of France establishes the state as secular and democratic, with its sovereignty derived from the people.
@@ -379,3 +380,4 @@ Lebanon has witnessed a series of migration waves: over 1,800,000 people emigrat
 As of 2012, Lebanon was host to over 1,600,000 refugees and asylum seekers: 449,957 from Palestine,[6] 5,986[citation needed] from Iraq, over 1,100,000 from Syria,[6][166] and 4,000 from Sudan. Their primary sources of income are UNRWA aid and menial labor sought in competition with about 500,000 Syrian guest workers.[167] According to the Economic and Social Commission for Western Asia of the United Nations, among the Syrian refugees, 71% live in poverty.[140] The latest estimates by the United Nations put the number of Syrian refugees at more than 1,250,000.[79]
 
 In the last three decades, lengthy and destructive armed conflicts have ravaged the country. The majority of Lebanese have been affected by armed conflict; those with direct personal experience include 75% of the population, and most others report suffering a range of hardships. In total, almost the entire population (96%) has been affected in some way – either personally or because of the wider consequences of armed conflict.[168]
+Hopefully this is hunk2
